@@ -12,8 +12,8 @@ This is a repo for discussing the order of BBC
 - Below are the menus, help youselves and enjoy ourselves. 
 *****
 
-![menu1](pic/3edea4a06e48060194123fcfc5489a67148001.jpg "meat")
-![menu2](pic/03baacbe498d7b76a070be43c0877c7c109958.jpg "vegetables")
+![menu1](./pic/3edea4a06e48060194123fcfc5489a67148001.jpg "meat")
+![menu2](./pic/03baacbe498d7b76a070be43c0877c7c109958.jpg "vegetables")
 
 
 
