@@ -13,7 +13,7 @@ This is a repo for discussing the order of BBC
 *****
 
 ![menu1](https://github.com/luruibo1995/2020_07_barbecue/raw/master/pic/03baacbe498d7b76a070be43c0877c7c109958.jpg "meat")
-![menu2](https://github.com/luruibo1995/2020_07_barbecue/raw/master/pic/03baacbe498d7b76a070be43c0877c7c109958.jpg "vegetables")
+![menu2](https://github.com/luruibo1995/2020_07_barbecue/raw/master/pic/3edea4a06e48060194123fcfc5489a67148001.jpg "vegetables")
 
 
 
