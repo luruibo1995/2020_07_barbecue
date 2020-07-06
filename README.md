@@ -19,7 +19,7 @@ This is a repo for discussing the order of BBC
 
 |         | zjl（个）         |   xhr（个）|  wl（个）| lrb（个）|total（个）
 | ------------- |:-------------:| -----:| ----:|---:|-----:|
-| 羊肉串      | right-aligned | $1600 || 10||
+| 羊肉串      | 1 | $1600 || 10||
 | 羊腰子      | centered      |   $12 || 1||
 | 猪脆骨 | are neat      |    $1 || 5||
 | 烤鳕鱼 | are neat      |    $1 || 1||
